@@ -1,0 +1,21 @@
+.App {
+	margin: 0 auto;
+}
+
+.button {
+	padding: 10px;
+	border-radius: 15px;
+	color: white;
+	background-color: orange;
+	border: none;
+	cursor: pointer;
+}
+
+.button:hover {
+	opacity: 0.7;
+	color: rgb(106, 70, 4);
+}
+
+.button:active {
+	background-color: rgb(106, 70, 4);
+}
